@@ -6,6 +6,7 @@ Dự án Java OOP với tích hợp MySQL Dự án này là một ứng dụng d
 Ta Cong Chien 23010209
 Nguyen Van Tu 23010109
 Nguyen Le Duc Anh 23010246
+
 🧰 Công nghệ sử dụng
 Java: Ngôn ngữ lập trình chính.
 
